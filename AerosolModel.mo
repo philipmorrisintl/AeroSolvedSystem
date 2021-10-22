@@ -3,7 +3,7 @@ within AeroSolvedSystem;
 
 model AerosolModel
 
-  constant Real PI=Modelica.Constants.pi;
+  constant Real PI=3.1415;
   constant Real k=1.3806488e-23 "Boltzmann constant";
   constant Real NA=6.02214129e23 "Avogadro number";
 
