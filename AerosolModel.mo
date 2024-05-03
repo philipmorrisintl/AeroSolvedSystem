@@ -2,6 +2,17 @@ within AeroSolvedSystem;
 
 
 model AerosolModel
+/*
+ Author: F.Lucci, PMI R&D, Philip Morris Products S.A., Switzerland
+ 
+ Model based on:
+ Winkelmann, C., Kuczaj, A.K., Nordlund, M. et al. 
+ Simulation of aerosol formation due to rapid cooling of multispecies vapors. 
+ J Eng Math 108, 171–196 (2018)
+ https://doi.org/10.1007/s10665-017-9918-6     
+ 
+*/
+
 
   constant Real PI=3.1415;
   constant Real k=1.3806488e-23 "Boltzmann constant";
