@@ -8,8 +8,11 @@ The AeroSolved project is led and funded by Philip Morris International R&D (PMI
 
 AeroSolvedSystem is not approved or endorsed by the [Modelica Association](https://modelica.org/association.html). The [Modelica Standard Library](https://github.com/modelica/ModelicaStandardLibrary) is a free software licensed under the [BSD 3-Clause License](https://github.com/modelica/ModelicaStandardLibrary/blob/master/LICENSE).
 
-### Contact
-Visit [www.aerosolved.com](https://www.intervals.science/resources/aerosolved) for more details or contact us [here](https://www.intervals.science/contact), (please, select AeroSolved as a topic).
+#### Citation
+If you find this project helpful or use it in your work, please cite it using the and present repository its reference paper:
+* AeroSolvedSystem (2021). GitHub repository, https://github.com/philipmorrisintl/AeroSolvedSystem
 
+## Contact
+For more information and details contact the AeroSolved team at this [email address](mailto:aerosolved.contact@pmi.com).
 
 
