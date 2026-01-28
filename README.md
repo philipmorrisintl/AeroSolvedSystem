@@ -8,9 +8,14 @@ The AeroSolved project is led and funded by Philip Morris International R&D (PMI
 
 AeroSolvedSystem is not approved or endorsed by the [Modelica Association](https://modelica.org/association.html). The [Modelica Standard Library](https://github.com/modelica/ModelicaStandardLibrary) is a free software licensed under the [BSD 3-Clause License](https://github.com/modelica/ModelicaStandardLibrary/blob/master/LICENSE).
 
+## Documentation
+
+To run the cases load Cases.mo in Dymola 2024x ( &#169; Dassault Systèmes, 1992-2023)
+
 #### Citation
-If you find this project helpful or use it in your work, please cite it using the and present repository its reference paper:
+If you find this project helpful or use it in your work, please cite it using the present repository and its reference paper:
 * AeroSolvedSystem (2021). GitHub repository, https://github.com/philipmorrisintl/AeroSolvedSystem
+* Lucci, F. & Kuczaj, A. K. (2026). AeroSolvedSystem: dynamics of evolving aerosols in a human whole-lung airway model. Part I: Transient inhalation, _Journal of Aerosol Science_, submitted
 
 ## Contact
 For more information and details contact the AeroSolved team at this [email address](mailto:aerosolved.contact@pmi.com).
